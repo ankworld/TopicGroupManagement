@@ -1,0 +1,9 @@
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csprojResolveAssemblyReference.cache

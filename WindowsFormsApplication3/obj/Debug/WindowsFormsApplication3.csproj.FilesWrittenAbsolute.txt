@@ -1,0 +1,10 @@
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/obj/Debug/WindowsFormsApplication3.Form1.resources
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/obj/Debug/WindowsFormsApplication3.Properties.Resources.resources
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/bin/Debug/WindowsFormsApplication3.exe.config
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/bin/Debug/WindowsFormsApplication3.exe.mdb
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/bin/Debug/WindowsFormsApplication3.pdb
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/bin/Debug/WindowsFormsApplication3.exe
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/obj/Debug/WindowsFormsApplication3.exe
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/obj/Debug/WindowsFormsApplication3.exe.mdb
+/home/anukul/Public/WindowsFormsApplication3/WindowsFormsApplication3/obj/Debug/WindowsFormsApplication3.pdb
